@@ -1,0 +1,4 @@
+Name= Kozaky
+Deck= CPU1_1
+Dialog= kozaky
+Price= 100

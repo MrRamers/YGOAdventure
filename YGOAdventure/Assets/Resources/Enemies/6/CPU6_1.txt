@@ -1,0 +1,4 @@
+Name= Pumpking
+Deck= CPU6_1
+Dialog= default
+Price= 550

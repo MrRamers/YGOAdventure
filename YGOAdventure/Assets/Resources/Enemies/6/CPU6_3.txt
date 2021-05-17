@@ -1,0 +1,4 @@
+Name= Dragunity_Vajrayana
+Deck= CPU6_3
+Dialog= default
+Price= 600

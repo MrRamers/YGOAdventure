@@ -1,0 +1,4 @@
+Name= Salamangreat_Balelynx
+Deck= CPU1_3
+Dialog= default
+Price= 350

@@ -1,0 +1,4 @@
+Name= SkullServant
+Deck= CPU1_2
+Dialog= default
+Price= 150

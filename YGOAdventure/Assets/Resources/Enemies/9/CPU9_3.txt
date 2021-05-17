@@ -1,0 +1,4 @@
+Name= JokerKnight
+Deck= CPU9_3
+Dialog= default
+Price= 800

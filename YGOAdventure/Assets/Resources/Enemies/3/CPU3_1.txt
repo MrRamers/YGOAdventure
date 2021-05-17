@@ -1,0 +1,4 @@
+Name= Marshmallon
+Deck= CPU3_1
+Dialog= default
+Price= 400

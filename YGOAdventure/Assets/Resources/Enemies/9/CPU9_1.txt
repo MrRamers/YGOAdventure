@@ -1,0 +1,4 @@
+Name= Nekroz_of_Trishula
+Deck= CPU9_1
+Dialog= default
+Price= 800

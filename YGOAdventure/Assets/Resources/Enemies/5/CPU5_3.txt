@@ -1,0 +1,4 @@
+Name= Qliford_Scaut
+Deck= CPU5_3
+Dialog= default
+Price= 500

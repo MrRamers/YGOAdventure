@@ -1,0 +1,4 @@
+Name= Geomathmech_Final_Sigma
+Deck= CPU12_2
+Dialog= default
+Price= 1000

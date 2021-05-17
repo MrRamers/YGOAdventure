@@ -1,0 +1,4 @@
+Name= Red-Eyes_Dark_Dragoon
+Deck= CPU8_2
+Dialog= default
+Price= 800

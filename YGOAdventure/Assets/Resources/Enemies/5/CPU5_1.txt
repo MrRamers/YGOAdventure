@@ -1,0 +1,4 @@
+Name= Volcasaurus
+Deck= CPU5_1
+Dialog= default
+Price= 400

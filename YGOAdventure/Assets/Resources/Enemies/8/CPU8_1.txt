@@ -1,0 +1,4 @@
+Name= Blue-Eyes
+Deck= CPU8_1
+Dialog= default
+Price= 800

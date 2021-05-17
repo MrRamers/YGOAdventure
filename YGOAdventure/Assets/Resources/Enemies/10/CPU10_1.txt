@@ -1,0 +1,4 @@
+Name= Pyramid_of_light
+Deck= CPU10_3
+Dialog= default
+Price= 700

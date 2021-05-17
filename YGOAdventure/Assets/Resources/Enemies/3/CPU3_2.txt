@@ -1,0 +1,4 @@
+Name= Gran_Manju
+Deck= CPU3_2
+Dialog= default
+Price= 300

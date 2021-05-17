@@ -1,0 +1,4 @@
+Name= Pikeru+Ebon
+Deck= CPU2_3
+Dialog= default
+Price= 250

@@ -1,0 +1,4 @@
+Name= Hazy_flame_Sphynx
+Deck= CPU6_2
+Dialog= default
+Price= 400

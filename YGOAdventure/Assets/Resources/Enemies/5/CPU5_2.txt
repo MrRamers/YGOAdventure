@@ -1,0 +1,4 @@
+Name= CyberDragon
+Deck= CPU5_2
+Dialog= default
+Price= 500

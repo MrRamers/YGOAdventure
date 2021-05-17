@@ -1,0 +1,4 @@
+Name= Ciberstain
+Deck= CPU2_2
+Dialog= default
+Price= 400

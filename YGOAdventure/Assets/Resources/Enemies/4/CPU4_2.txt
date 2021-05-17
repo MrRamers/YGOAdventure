@@ -1,0 +1,4 @@
+Name= Utopia
+Deck= CPU4_2
+Dialog= default
+Price= 400

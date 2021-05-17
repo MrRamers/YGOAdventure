@@ -1,0 +1,4 @@
+Name= FrogTheJam
+Deck= CPU2_1
+Dialog= default
+Price= 200

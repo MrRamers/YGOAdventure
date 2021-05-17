@@ -1,0 +1,4 @@
+Name= ClearWing
+Deck= CPU7_3
+Dialog= default
+Price= 750

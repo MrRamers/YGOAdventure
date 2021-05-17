@@ -1,0 +1,4 @@
+Name= DarkMagician
+Deck= CPU7_1
+Dialog= default
+Price= 700

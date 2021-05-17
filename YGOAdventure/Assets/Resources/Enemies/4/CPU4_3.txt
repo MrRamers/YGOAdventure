@@ -1,0 +1,4 @@
+Name= TimeTheaf
+Deck= CPU4_3
+Dialog= default
+Price= 500

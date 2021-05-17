@@ -1,0 +1,4 @@
+Name= RescueRabbit
+Deck= CPU4_1
+Dialog= default
+Price= 500

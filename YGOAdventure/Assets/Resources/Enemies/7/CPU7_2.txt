@@ -1,0 +1,4 @@
+Name= Blackwing
+Deck= CPU7_2
+Dialog= default
+Price= 650

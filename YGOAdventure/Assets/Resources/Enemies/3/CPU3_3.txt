@@ -1,0 +1,4 @@
+Name= DecodeTalker
+Deck= CPU3_3
+Dialog= default
+Price= 500

@@ -1,0 +1,4 @@
+Name= Judgment_Dragon
+Deck= CPU8_3
+Dialog= default
+Price= 750
